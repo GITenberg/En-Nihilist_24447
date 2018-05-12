@@ -1,0 +1,35 @@
+_repo: En-Nihilist_24447
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Drachman, E.
+    gutenberg_agent_id: '26502'
+    url: http://www.gutenberg.org/2009/agents/26502
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stepniak, S.
+    aliases:
+    - Степняк-Кравчинский, Сергей Михайлович
+    - Kravchinskii, S. M. (Sergei Mikhailovich)
+    birthdate: 1851
+    deathdate: 1895
+    gutenberg_agent_id: '26503'
+    url: http://www.gutenberg.org/2009/agents/26503
+    wikipedia: http://en.wikipedia.org/wiki/Sergei_Kravchinski
+description: ''
+gutenberg_issued: '2008-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24447'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Nihilism -- Fiction'
+title: En Nihilist
+url: http://www.gutenberg.org/ebooks/24447
